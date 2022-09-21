@@ -35,7 +35,7 @@
         color: maroon;
         text-decoration: none;
         font-size: 18px;
-        font-family: 'Times New Roman', Times, serif;
+        font-family: 'Arial', Arial, sans-serif;
     }
     .nav-links ul li::after{
         content: '';
