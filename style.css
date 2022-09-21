@@ -87,7 +87,7 @@ body{
     }
 
 .p1{
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Arial, 'Arial', sans-serif;
     font-size: 18px;
     width: 1000px;
     margin-left: auto;
@@ -118,7 +118,7 @@ body{
 }
 
 .p2{
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Arial, 'Arial', sans-serif;
     font-size: 18px;
     width: 1000px;
     margin-left: auto;
@@ -127,7 +127,7 @@ body{
 }
 
 .p3{
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Arial, 'Arial', sans-serif;
     font-size: 18px;
     width: 1000px;
     margin-left: auto;
@@ -136,7 +136,7 @@ body{
 }
     
 .quote{
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Arial, 'Arial', sans-serif;
     font-size: 18px;
     text-align: center;
     margin-right: auto;
@@ -218,13 +218,13 @@ body{
   }
   h1{
     font-size: 3.0rem ;
-    font-family: gd-sage,"Times","Times New Roman",serif;
+    font-family: gd-sage,"Arial","Arial",sans-serif;
     text-align: center;
     background-color:#FDE9DB;
   }
   .a1{
     font-size: 30px;
-    font-family: gd-sage,"Times","Times New Roman",serif;
+    font-family: gd-sage,"Arial","Arial",sans-serif;
     text-align: left;
     font-weight: 800;
     background-color:#FDE9DB;
